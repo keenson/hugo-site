@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "samsonfadele.com"
 title = "OSF"
 theme = "hugo-coder"
 languageCode = "en"
@@ -156,5 +156,5 @@ url = "posts/"
 [[languages.en.menu.main]]
 name = "Resume"
 weight = 2
-url = "https://drive.google.com/file/d/1QInnsSe0nGDQ0POEpBf4N7DKVGH1ryeg/view?usp=sharing"
+url = "https://drive.google.com/file/d/1QInnsSe0nGDQ0POEpBf4N7DKVGH1ryeg/view"
 
