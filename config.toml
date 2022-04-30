@@ -106,31 +106,37 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/keenson/"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-2x fa-gitlab"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://gitlab.com/keenson/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/keenson10/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/olalekan-fadele/"
 
 [[params.social]]
-name = "Medium"
+name = "Hashnode"
 icon = "fa fa-2x fa-hashnode"
 weight = 5
-url = "https://hashnode.com/@johndoe"
+url = ""
+
+[[params.social]]
+name = "Envelope"
+icon = "fa fa-2x fa-envelope"
+weight = 5
+url = "mailto:os.fadele@gmail.com"
 
 
 
@@ -147,5 +153,8 @@ name = "Blog"
 weight = 2
 url = "posts/"
 
-
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 2
+url = "https://drive.google.com/file/d/1QInnsSe0nGDQ0POEpBf4N7DKVGH1ryeg/view?usp=sharing"
 
