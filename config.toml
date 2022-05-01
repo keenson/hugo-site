@@ -1,4 +1,4 @@
-baseURL = "samsonfadele.com"
+baseURL = "/"
 title = "OSF"
 theme = "hugo-coder"
 languageCode = "en"
@@ -22,7 +22,7 @@ avatarURL = "images/me3.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
-
+math = true
 
 # Git Commit in Footer, uncomment the line below to enable it
 #commit = "https://github.com/luizdepra/hugo-coder/tree/"
